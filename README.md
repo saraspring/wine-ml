@@ -1,4 +1,4 @@
-# ml-project
+# Machine Learning Project
 Machine learning project using wine reviews dataset
 
 # Wine Reviews Data Analysis and Visualization
